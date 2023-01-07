@@ -35,9 +35,6 @@ I am Shibin. I am a Java Developer with some React JS experience and a lot of in
 ### Small 🐇
 
 -   [suzuki-kasami-visualized](https://github.com/anushibin007/suzuki-kasami-visualized)
-
-### Mini 🐌
-
 -   [herons-formula](https://github.com/anushibin007/herons-formula)
 -   [is-it-weekend](https://github.com/anushibin007/is-it-weekend)
 
