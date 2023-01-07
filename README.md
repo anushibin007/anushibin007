@@ -5,17 +5,17 @@
 <a href="https://anushibin.wordpress.com/">
   <img align="left" alt="Anu Shibin's Blog" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/wordpress.svg" />
 </a>
+<a href="https://www.linkedin.com/in/anushibinj/">
+  <img align="left" alt="Anu Shibin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/linkedin.svg" />
+</a>
 <a href="https://www.instagram.com/anushibinj/">
   <img align="left" alt="Anu Shibin's Instagram" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/instagram.svg" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.com/users/jasAdmin#9812">
   <img align="left" alt="Anu Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/anushibin007/">
   <img align="left" alt="Anu Shibin's Twitter" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/anushibinj/">
-  <img align="left" alt="Anu Shibin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anushibin007)
