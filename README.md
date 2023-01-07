@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am Shibin. I am a Java Developer with some React JS experience and a lot of interest in automating stuff. Find my Socials below if you want to get in touch with me.
-
-### 🤝 Connect with me:
+<!-- Socials Start -->
 
 <a href="https://anushibin.wordpress.com/">
   <img align="left" alt="Anu Shibin's Blog" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/wordpress.svg" />
@@ -21,6 +19,11 @@ I am Shibin. I am a Java Developer with some React JS experience and a lot of in
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anushibin007)
+
+<!-- Socials End -->
+
+I am Shibin. I am a Java Developer with some React JS experience and a lot of interest in automating stuff. Find my Socials below if you want to get in touch with me.
+
 <!--
 **anushibin007/anushibin007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
