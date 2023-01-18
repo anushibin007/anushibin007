@@ -22,7 +22,7 @@
 
 <!-- Socials End -->
 
-I am Shibin. I am a Java Developer with some React JS experience and a lot of interest in automating stuff. Find my Socials below if you want to get in touch with me.
+I am Shibin. I am a Java Developer with some React JS experience and a lot of interest in automating stuff. Find my Socials above if you want to get in touch with me.
 
 ## My Side Projects 👨‍🔬
 
