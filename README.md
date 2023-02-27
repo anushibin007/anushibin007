@@ -5,6 +5,9 @@
 <a href="https://anushibin.wordpress.com/">
   <img align="left" alt="Anu Shibin's Blog" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/wordpress.svg" />
 </a>
+<a href="https://www.youtube.com/@fastorial">
+  <img align="left" alt="Anu Shibin's Youtube Channel - Fastorial" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/youtube.svg" />
+</a>
 <a href="https://www.linkedin.com/in/anushibinj/">
   <img align="left" alt="Anu Shibin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/linkedin.svg" />
 </a>
