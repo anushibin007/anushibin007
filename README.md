@@ -21,11 +21,9 @@
   <img align="left" alt="Anu Shibin's Twitter" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=anushibin007)
-
 <!-- Socials End -->
 
-I am Shibin. I am a Java Developer with some React JS experience and a lot of interest in automating stuff. Find my Socials above if you want to get in touch with me.
+I am Shibin. I am a Java Developer with some React JS experience and a lot of interest in automating stuff. I love to Dockerize projects. Drop me a message on one of my Socials above if you want to discuss the technical stuff that we are both interested in.
 
 ## My Side Projects 👨‍🔬
 
