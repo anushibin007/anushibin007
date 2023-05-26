@@ -20,6 +20,8 @@
 <a href="https://twitter.com/anushibin007/">
   <img align="left" alt="Anu Shibin's Twitter" width="22px" src="https://raw.githubusercontent.com/anushibin007/anushibin007/master/images/icons/twitter.svg" />
 </a>
+<br/>
+<br/>
 
 <!-- Socials End -->
 
