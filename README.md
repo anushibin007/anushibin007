@@ -31,9 +31,10 @@ I am Shibin. I am a Java Developer with some React JS experience and a lot of in
 
 ### Large 🐘
 
--   [jira-bulk-sub-task-creator](https://github.com/anushibin007/jira-bulk-sub-task-creator)
--   [jira-automater](https://github.com/anushibin007/jira-automater)
+-   [jira-bulk-sub-task-creator](https://github.com/anushibin007/jira-bulk-sub-task-creator/)
+-   [jira-automater](https://github.com/anushibin007/jira-automater/)
 -   [chord-inator](https://chord-inator.web.app/)
+-   [bible-trivia](https://learn-bible-trivia.web.app/)
 
 ### Small 🐇
 
